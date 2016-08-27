@@ -14,11 +14,11 @@
 #  Lesser General Public License for more details.
 #
 #  You should have received a copy of the GNU Lesser General Public License
-#  along with systemd; If not, see <http://www.gnu.org/licenses/>.
+#  along with gummiboot; If not, see <http://www.gnu.org/licenses/>.
 
 AC_INIT([gummiboot],
         [48],
-        [systemd-devel@lists.freedesktop.org],
+        [gummiboot-devel@lists.freedesktop.org],
         [gummiboot],
         [http://freedesktop.org/wiki/Software/gummiboot])
 
